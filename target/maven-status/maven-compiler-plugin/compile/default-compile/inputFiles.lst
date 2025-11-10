@@ -1,0 +1,9 @@
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\AdministracionEventosApplication.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\Core\domain\Asistente.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\Core\domain\Evento.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\feature\evento\controller\EventoController.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\feature\evento\repository\EventoRepository.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\feature\evento\service\EventoService.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\feature\evento\service\impl\EventoServiceImp.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\util\service\EmailService.java
+C:\Users\obeds\OneDrive\Desktop\2026-1\Backend\DICCIONARIO\codigo\AdministracionEventos\src\main\java\org\ipn\mx\administracioneventos\util\service\impl\EmailServiceImpl.java
