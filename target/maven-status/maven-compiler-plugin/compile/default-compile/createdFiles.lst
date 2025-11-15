@@ -5,7 +5,11 @@ org\ipn\mx\administracioneventos\Core\domain\Evento.class
 org\ipn\mx\administracioneventos\Core\domain\Evento$EventoBuilder.class
 org\ipn\mx\administracioneventos\Core\domain\Asistente$AsistenteBuilder.class
 org\ipn\mx\administracioneventos\Core\domain\Asistente.class
+org\ipn\mx\administracioneventos\feature\asistente\service\AsistenteService.class
+org\ipn\mx\administracioneventos\feature\asistente\service\impl\AsistenteServiceImp.class
 org\ipn\mx\administracioneventos\feature\evento\service\EventoService.class
+org\ipn\mx\administracioneventos\feature\asistente\controller\AsistenteController.class
 org\ipn\mx\administracioneventos\feature\evento\controller\EventoController.class
 org\ipn\mx\administracioneventos\util\service\EmailService.class
+org\ipn\mx\administracioneventos\feature\asistente\repository\AsistenteRepository.class
 org\ipn\mx\administracioneventos\feature\evento\repository\EventoRepository.class

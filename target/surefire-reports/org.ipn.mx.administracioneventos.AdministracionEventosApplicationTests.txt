@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.ipn.mx.administracioneventos.AdministracionEventosApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.569 s -- in org.ipn.mx.administracioneventos.AdministracionEventosApplicationTests
