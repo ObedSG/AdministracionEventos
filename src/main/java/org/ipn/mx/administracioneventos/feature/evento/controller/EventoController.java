@@ -52,6 +52,7 @@ public class EventoController {
         Map<String, Object> respuesta = new HashMap<>();
 
         try {
+//            e.setIdEvento=evento.getIdEvento();  //por actualizar
             e = service.save(evento);
         } catch (DataAccessException ex) {
             respuesta.put("mensaje", "Error al realizar el registro en la base de datos");

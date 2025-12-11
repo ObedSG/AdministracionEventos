@@ -41,10 +41,12 @@ public class Evento implements Serializable {
 
     @NotNull(message = "La fecha no puede ser nula")
     @FutureOrPresent(message = "La fecha de inicio debera ser hoy o cualquier fecha en el futuro")
-    @Temporal(TemporalType.DATE)
+//    @Temporal(TemporalType.DATE)
+    @Column(name = "fechaInicio")
     private LocalDate fechaInicio;
 
     @NotNull(message = "La fecha no puede ser nula")
+    @Column(name = "fechaFin")
     private LocalDate fechaFin;
 
     @OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL, mappedBy = "idEvento")
